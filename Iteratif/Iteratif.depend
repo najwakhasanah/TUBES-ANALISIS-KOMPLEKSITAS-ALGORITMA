@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735479800 source:e:\ngoding\c++\tubes_aka\iteratif\main.cpp
+	<iostream>
+	<vector>
+
